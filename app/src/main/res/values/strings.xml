@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktik 910</string>
+    <string name="namaNIM">OCTAVIANO HAPOSAN BADAR GINANJAR // 21523220</string>
+    <string name="nomor">0</string>
+    <string name="bTam1">+1</string>
+    <string name="bTam2">+2</string>
+    <string name="bTam5">+5</string>
+    <string name="bKur1">-1</string>
+    <string name="bKur2">-2</string>
+    <string name="bKur5">-5</string>
+    <string name="bReset">RESET</string>
+</resources>
